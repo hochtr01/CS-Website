@@ -5,7 +5,7 @@ The following steps are meant for a bash-compatible console.
 1. Navigate to your `public_html` directory
 2. Run `git clone <url>` where `<url>` is the url of this GitHub project
 3. Navigate to the cloned directory (by default it will be named `CS-Website`)
-4. Run 'chmod a+rx <file>' to have the directories permissions changed for browser usage
+4. Run `chmod a+rx <file>` to have the directories permissions changed for browser usage
 ## Essential command-line git commands
 Use all commands while within this GitHub project's directory.
 ### Adding New and Edited Files
